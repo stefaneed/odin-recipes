@@ -1,0 +1,28 @@
+* {
+    background-color: #400002;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #a68428;
+    font-size: 64px;
+}
+
+h4 {
+    color:#a68428;
+    font-size: 36px;
+}
+
+a, li, ul, ol, p {
+    color: #d6c69a;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
